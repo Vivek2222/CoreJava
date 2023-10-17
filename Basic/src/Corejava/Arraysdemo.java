@@ -1,5 +1,5 @@
 package Corejava;
-
+//Write a java program for array
 public class Arraysdemo {
 
 	public static void main(String[] args) {
